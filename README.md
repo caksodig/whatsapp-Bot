@@ -16,8 +16,7 @@ WhatsApp Trading Bot adalah sebuah bot otomatis yang membantu memudahkan proses 
 ## Teknologi
 
 - Node.js
-- TypeScript
-- Puppeteer (untuk otomatisasi browser)
+- JavaScript
 - Trading API
 - WhatsApp Web API
 

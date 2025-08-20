@@ -87,5 +87,5 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 
 Untuk pertanyaan dan dukungan, silakan hubungi:
 
-- Email: developer@example.com
+- Email: yodigrochmad@gmail.com
 - GitHub: [@caksodig](https://github.com/caksodig)

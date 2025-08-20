@@ -1,0 +1,37 @@
+{
+  "name": "whatsapp-trading-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk analisis chart trading dengan Smart Money Concept",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "openai": "^4.20.0",
+    "sharp": "^0.32.6",
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "moment": "^2.29.4",
+    "winston": "^3.11.0",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.7.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "trading",
+    "bot",
+    "smc",
+    "scalping"
+  ],
+  "author": "Yodig",
+  "license": "MIT",
+  "type": "commonjs"
+}
